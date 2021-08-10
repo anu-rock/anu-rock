@@ -5,11 +5,11 @@
 
 - 📝 I regularly write articles on [https://anuragbhandari.com](https://anuragbhandari.com)
 
-- 📫 How to reach me **ab@anuragbhandari.xom**
+- 📫 Drop me a line at ab@anuragbhandari.com
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1T6sn8dRbfAA1NP74vGRi77tHyNR4mI1lGe-Ffv7elDQ/edit?usp=sharing](https://docs.google.com/document/d/1T6sn8dRbfAA1NP74vGRi77tHyNR4mI1lGe-Ffv7elDQ/edit?usp=sharing)
+- 📄 Know about my experiences from my [resume](https://docs.google.com/document/d/1T6sn8dRbfAA1NP74vGRi77tHyNR4mI1lGe-Ffv7elDQ/edit?usp=sharing)
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
