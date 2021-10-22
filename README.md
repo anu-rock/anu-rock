@@ -11,6 +11,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Book Review — The Pragmatic Programmer](https://anuragbhandari.com/literary-pursuits/book-review-the-pragmatic-programmer-1861/)
+- [Structured Entertainment — An experiment in fulfillment and productivity](https://anuragbhandari.com/life-thoughts/structured-entertainment-an-experiment-in-fulfillment-and-productivity-1857/)
+- [Agile is an adjective, not a textbook](https://anuragbhandari.com/coding-tech/agile-is-an-adjective-not-a-textbook-1853/)
+- [Don’t dread the Thread, it’s just Java async code](https://anuragbhandari.com/coding-tech/dont-dread-the-thread-its-just-java-async-code-1849/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
