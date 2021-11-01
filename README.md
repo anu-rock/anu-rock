@@ -18,6 +18,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anu-rock&show_icons=true&locale=en&layout=compact" alt="anu-rock" /></p>
+
 I consider myself a polyglot and tinkerer. As a result, I can work with plenty of languages, tools, and frameworks (hard to list them all here). You can throw one that is unfamiliar to me and I'll learn it quickly.
 
 If I must pick my absolute favorite ones, they will be:
@@ -33,9 +35,6 @@ If I must pick my absolute favorite ones, they will be:
 <a href="https://twitter.com/anuragbhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuragbhandari" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1775160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1775160" height="30" width="40" /></a>
 <a href="/https://anuragbhandari.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://anuragbhandari.com/feed" height="30" width="40" /></a>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anu-rock&show_icons=true&locale=en&layout=compact" alt="anu-rock" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anu-rock&show_icons=true&locale=en" alt="anu-rock" /></p>
  -->
