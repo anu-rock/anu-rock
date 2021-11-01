@@ -37,5 +37,5 @@ If I must pick my absolute favorite ones, they will be:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anu-rock&show_icons=true&locale=en&layout=compact" alt="anu-rock" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anu-rock&show_icons=true&locale=en" alt="anu-rock" /></p>
-
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anu-rock&show_icons=true&locale=en" alt="anu-rock" /></p>
+ -->
