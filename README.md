@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Anurag Bhandari</h1>
-<h3 align="center">A software engineer from India</h3>
+<h3 align="center">Software engineer from India</h3>
 
 - 🔭 I’m currently working at **Automattic**
 
