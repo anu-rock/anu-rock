@@ -11,10 +11,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The reading speed conundrum](https://anuragbhandari.com/literary-pursuits/the-reading-speed-conundrum-1897/)
+- [Merge commit vs. squash commit in git](https://anuragbhandari.com/coding-tech/merge-commit-vs-squash-commit-in-git-1895/)
 - [The Christmas Pig — Book Review](https://anuragbhandari.com/literary-pursuits/the-christmas-pig-book-review-1890/)
 - [The Code Breaker — Book Review](https://anuragbhandari.com/literary-pursuits/the-code-breaker-review-1886/)
-- [Book Review — Nikola Tesla: Imagination and the Man That Invented the 20th Century](https://anuragbhandari.com/literary-pursuits/book-review-nikola-tesla-imagination-and-the-man-that-invented-the-20th-century-1881/)
-- [Book Review — The Book Thief](https://anuragbhandari.com/literary-pursuits/book-review-the-book-thief-1878/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
