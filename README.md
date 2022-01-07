@@ -1,5 +1,8 @@
-<h1 align="center">Hello 👋 I'm Anurag Bhandari</h1>
-<h3 align="center">Software engineer from India</h3>
+<h1 align="center">Hello 👋 I'm Anurag</h1>
+
+<h3 align="center"><img src="https://user-images.githubusercontent.com/1288616/148529666-2368f07e-8b57-40ae-bfd9-0d897566c966.jpg" alt="Anurag's photo" width="150" /></h3>
+
+<h3 align="center">A Software Engineer from India</h3>
 
 - 🔭 I’m currently working at **Automattic**
 
@@ -22,14 +25,8 @@
 
 I consider myself a polyglot and tinkerer. As a result, I can work with plenty of languages, tools, and frameworks (hard to list them all here). You can throw one that is unfamiliar to me and I'll learn it quickly.
 
-If I must pick my absolute favorite ones, they will be:
-* Linux
-* JavaScript
-* React
-* Flutter
-* Node
-* PHP
-* Ruby on Rails
+If I must pick my absolute favorite ones, they will be:  
+• Linux • JavaScript • React • Flutter • Node • PHP • Ruby on Rails
 
 ### Connect with me:
 <a href="https://twitter.com/anuragbhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuragbhandari" height="30" width="40" /></a>
