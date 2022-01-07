@@ -31,7 +31,7 @@ If I must pick my absolute favorite ones, they will be:
 ### Connect with me:
 <a href="https://twitter.com/anuragbhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuragbhandari" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1775160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1775160" height="30" width="40" /></a>
-<a href="/https://anuragbhandari.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://anuragbhandari.com/feed" height="30" width="40" /></a>
+<a href="https://anuragbhandari.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://anuragbhandari.com/feed" height="30" width="40" /></a>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anu-rock&show_icons=true&locale=en" alt="anu-rock" /></p>
  -->
