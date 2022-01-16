@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Prey — Book Review](https://anuragbhandari.com/literary-pursuits/prey-book-review-1910/)
 - [Sugar-coated false promises](https://anuragbhandari.com/life-thoughts/sugar-coated-false-promises-1902/)
 - [The reading speed conundrum](https://anuragbhandari.com/literary-pursuits/the-reading-speed-conundrum-1897/)
 - [Merge commit vs. squash commit in git](https://anuragbhandari.com/coding-tech/merge-commit-vs-squash-commit-in-git-1895/)
-- [The Christmas Pig — Book Review](https://anuragbhandari.com/literary-pursuits/the-christmas-pig-book-review-1890/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
