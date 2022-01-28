@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Standing in the balcony](https://anuragbhandari.com/life-thoughts/standing-in-the-balcony-1922/)
 - [Positive Discipline: The First Three Years — Book Review](https://anuragbhandari.com/literary-pursuits/positive-discipline-the-first-three-years-book-review-1919/)
 - [I was here…](https://anuragbhandari.com/life-thoughts/i-was-here-1913/)
 - [Prey — Book Review](https://anuragbhandari.com/literary-pursuits/prey-book-review-1910/)
-- [Sugar-coated false promises](https://anuragbhandari.com/life-thoughts/sugar-coated-false-promises-1902/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
