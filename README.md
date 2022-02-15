@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Silent Patient — Book Review](https://anuragbhandari.com/literary-pursuits/the-silent-patient-book-review-1937/)
 - [Do Epic Shit — Book Review](https://anuragbhandari.com/literary-pursuits/do-epic-shit-book-review-1931/)
 - [The need to rethink coding interviews](https://anuragbhandari.com/life-thoughts/the-need-to-rethink-coding-interviews-1927/)
 - [Man’s Search For Meaning — Book Review](https://anuragbhandari.com/literary-pursuits/mans-search-for-meaning-book-review-1924/)
-- [Standing in the balcony](https://anuragbhandari.com/life-thoughts/standing-in-the-balcony-1922/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
