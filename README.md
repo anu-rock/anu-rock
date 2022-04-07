@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Head First Design Patterns — Book Review](https://anuragbhandari.com/coding-tech/head-first-design-patterns-book-review-1967/)
 - [Sapiens — Book Review](https://anuragbhandari.com/literary-pursuits/sapiens-book-review-1962/)
 - [Siddhartha — Book Review](https://anuragbhandari.com/literary-pursuits/siddhartha-book-review-1955/)
 - [Shoe Dog — Book Review](https://anuragbhandari.com/literary-pursuits/shoe-dog-book-review-1952/)
-- [The Silent Patient — Book Review](https://anuragbhandari.com/literary-pursuits/the-silent-patient-book-review-1937/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
