@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Running minus phone](https://anuragbhandari.com/life-thoughts/running-minus-phone-1979/)
 - [1000 kilometers](https://anuragbhandari.com/life-thoughts/1000-kilometers-1975/)
 - [Settled on Fedora](https://anuragbhandari.com/coding-tech/settled-on-fedora-1970/)
 - [Head First Design Patterns — Book Review](https://anuragbhandari.com/coding-tech/head-first-design-patterns-book-review-1967/)
-- [Sapiens — Book Review](https://anuragbhandari.com/literary-pursuits/sapiens-book-review-1962/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
