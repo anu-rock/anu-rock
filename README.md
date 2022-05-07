@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Project Hail Mary — Book Review](https://anuragbhandari.com/literary-pursuits/project-hail-mary-book-review-1990/)
 - [Goldilocks working hours](https://anuragbhandari.com/life-thoughts/goldilocks-working-hours-1987/)
 - [Cycling after a long time](https://anuragbhandari.com/life-thoughts/cycling-after-a-long-time-1982/)
 - [Running minus phone](https://anuragbhandari.com/life-thoughts/running-minus-phone-1979/)
-- [1000 kilometers](https://anuragbhandari.com/life-thoughts/1000-kilometers-1975/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
