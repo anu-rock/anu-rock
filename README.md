@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [anurock.dev](https://anuragbhandari.com/coding-tech/anurock-dev-2001/)
 - [Predictably Irrational — Book Review](https://anuragbhandari.com/literary-pursuits/predictably-irrational-book-review-1997/)
 - [Jack of all trades](https://anuragbhandari.com/coding-tech/jack-of-all-trades-1993/)
 - [Project Hail Mary — Book Review](https://anuragbhandari.com/literary-pursuits/project-hail-mary-book-review-1990/)
-- [Goldilocks working hours](https://anuragbhandari.com/life-thoughts/goldilocks-working-hours-1987/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
