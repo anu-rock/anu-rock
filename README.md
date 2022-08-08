@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Millionaire Fastlane — Book Review](https://anuragbhandari.com/life-thoughts/the-millionaire-fastlane-book-review-2017/)
 - [Red Roulette — Book Review](https://anuragbhandari.com/literary-pursuits/red-roulette-book-review-2013/)
 - [Atomic Habits — Book Review](https://anuragbhandari.com/literary-pursuits/atomic-habits-book-review-2009/)
 - [Empire of Pain — Book Review](https://anuragbhandari.com/literary-pursuits/empire-of-pain-book-review-2006/)
-- [anurock.dev](https://anuragbhandari.com/coding-tech/anurock-dev-2001/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
