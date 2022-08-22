@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Arch Linux experiment](https://anuragbhandari.com/coding-tech/the-arch-linux-experiment-2022/)
 - [The Millionaire Fastlane — Book Review](https://anuragbhandari.com/life-thoughts/the-millionaire-fastlane-book-review-2017/)
 - [Red Roulette — Book Review](https://anuragbhandari.com/literary-pursuits/red-roulette-book-review-2013/)
 - [Atomic Habits — Book Review](https://anuragbhandari.com/literary-pursuits/atomic-habits-book-review-2009/)
-- [Empire of Pain — Book Review](https://anuragbhandari.com/literary-pursuits/empire-of-pain-book-review-2006/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
