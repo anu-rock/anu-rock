@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fahrenheit 451 — Book Review](https://anuragbhandari.com/literary-pursuits/fahrenheit-451-book-review-2026/)
 - [The Arch Linux experiment](https://anuragbhandari.com/coding-tech/the-arch-linux-experiment-2022/)
 - [The Millionaire Fastlane — Book Review](https://anuragbhandari.com/life-thoughts/the-millionaire-fastlane-book-review-2017/)
 - [Red Roulette — Book Review](https://anuragbhandari.com/literary-pursuits/red-roulette-book-review-2013/)
-- [Atomic Habits — Book Review](https://anuragbhandari.com/literary-pursuits/atomic-habits-book-review-2009/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
