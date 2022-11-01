@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Can’t Hurt Me — Book Review](https://anuragbhandari.com/literary-pursuits/cant-hurt-me-book-review-2038/)
 - [Range — Book Review](https://anuragbhandari.com/literary-pursuits/range-book-review-2034/)
 - [Fahrenheit 451 — Book Review](https://anuragbhandari.com/literary-pursuits/fahrenheit-451-book-review-2026/)
 - [The Arch Linux experiment](https://anuragbhandari.com/coding-tech/the-arch-linux-experiment-2022/)
-- [The Millionaire Fastlane — Book Review](https://anuragbhandari.com/life-thoughts/the-millionaire-fastlane-book-review-2017/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
