@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Recursion — Book Review](https://anuragbhandari.com/literary-pursuits/recursion-book-review-2058/)
 - [Make Time — Book Review](https://anuragbhandari.com/literary-pursuits/make-time-book-review-2055/)
 - [10 kilometers](https://anuragbhandari.com/life-thoughts/10-kilometers-2045/)
 - [The 7 Habits of Highly Effective People — Book Review](https://anuragbhandari.com/literary-pursuits/the-7-habits-of-highly-effective-people-book-review-2041/)
-- [Can’t Hurt Me — Book Review](https://anuragbhandari.com/literary-pursuits/cant-hurt-me-book-review-2038/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
