@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://anuragbhandari.com](https://anuragbhandari.com)
 
-- 📫 Drop me a line at ab@anuragbhandari.com
+- 📫 Drop me a line at echo@anurock.dev
 
 - 📄 Know about my experiences from my [resume](https://docs.google.com/document/d/1T6sn8dRbfAA1NP74vGRi77tHyNR4mI1lGe-Ffv7elDQ/edit?usp=sharing)
 
