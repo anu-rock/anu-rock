@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The incredible power of traveling](https://anuragbhandari.com/life-thoughts/the-incredible-power-of-traveling-2076/)
 - [Gadget Alert: Keychron K2 Pro keyboard](https://anuragbhandari.com/life-thoughts/gadget-alert-keychron-k2-pro-keyboard-2070/)
 - [The Elements of Style — Book Review](https://anuragbhandari.com/literary-pursuits/the-elements-of-style-book-review-2066/)
 - [Recursion — Book Review](https://anuragbhandari.com/literary-pursuits/recursion-book-review-2058/)
-- [Make Time — Book Review](https://anuragbhandari.com/literary-pursuits/make-time-book-review-2055/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
