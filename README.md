@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gadget Alert: Kindle Scribe](https://anuragbhandari.com/life-thoughts/gadget-alert-kindle-scribe-2093/)
 - [Is there such a thing as European Americans?](https://anuragbhandari.com/life-thoughts/is-there-such-a-thing-as-european-americans-2090/)
 - [Gadget Alert: Steam Deck 256GB](https://anuragbhandari.com/life-thoughts/gadget-alert-steam-deck-256gb-2085/)
 - [Joys of jogging](https://anuragbhandari.com/life-thoughts/joys-of-jogging-2080/)
-- [The incredible power of traveling](https://anuragbhandari.com/life-thoughts/the-incredible-power-of-traveling-2076/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
