@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Are you challenging your reports to do their best?](https://anuragbhandari.com/life-thoughts/are-you-challenging-your-reports-to-do-their-best-2103/)
 - [Hottest place on earth isn’t in India?](https://anuragbhandari.com/life-thoughts/hottest-place-on-earth-isnt-in-india-2101/)
 - [India Women’s Cricket Team](https://anuragbhandari.com/life-thoughts/india-womens-cricket-team-2097/)
 - [Gadget Alert: Kindle Scribe](https://anuragbhandari.com/life-thoughts/gadget-alert-kindle-scribe-2093/)
-- [Is there such a thing as European Americans?](https://anuragbhandari.com/life-thoughts/is-there-such-a-thing-as-european-americans-2090/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
