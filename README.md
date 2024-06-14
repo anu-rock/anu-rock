@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [We’ve been flying for over a hundred years](https://anuragbhandari.com/uncategorized/weve-been-flying-for-over-a-hundred-years-2115/)
 - [Writing code for humans, not aliens](https://anuragbhandari.com/coding-tech/writing-code-for-humans-not-aliens-2112/)
 - [Are you challenging your reports to do their best?](https://anuragbhandari.com/life-thoughts/are-you-challenging-your-reports-to-do-their-best-2103/)
 - [Hottest place on earth isn’t in India?](https://anuragbhandari.com/life-thoughts/hottest-place-on-earth-isnt-in-india-2101/)
-- [India Women’s Cricket Team](https://anuragbhandari.com/life-thoughts/india-womens-cricket-team-2097/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
