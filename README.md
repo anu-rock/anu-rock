@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We’ve been flying for over a hundred years](https://anuragbhandari.com/uncategorized/weve-been-flying-for-over-a-hundred-years-2115/)
+- [The Philippines and America share an interesting connection](https://anuragbhandari.com/life-thoughts/the-philippines-and-america-share-an-interesting-connection-2123/)
+- [We’ve been flying for over a hundred years](https://anuragbhandari.com/life-thoughts/weve-been-flying-for-over-a-hundred-years-2115/)
 - [Writing code for humans, not aliens](https://anuragbhandari.com/coding-tech/writing-code-for-humans-not-aliens-2112/)
 - [Are you challenging your reports to do their best?](https://anuragbhandari.com/life-thoughts/are-you-challenging-your-reports-to-do-their-best-2103/)
-- [Hottest place on earth isn’t in India?](https://anuragbhandari.com/life-thoughts/hottest-place-on-earth-isnt-in-india-2101/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
