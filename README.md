@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The showroom effect](https://anuragbhandari.com/life-thoughts/the-showroom-effect-2127/)
 - [The Philippines and America share an interesting connection](https://anuragbhandari.com/life-thoughts/the-philippines-and-america-share-an-interesting-connection-2123/)
 - [We’ve been flying for over a hundred years](https://anuragbhandari.com/life-thoughts/weve-been-flying-for-over-a-hundred-years-2115/)
 - [Writing code for humans, not aliens](https://anuragbhandari.com/coding-tech/writing-code-for-humans-not-aliens-2112/)
-- [Are you challenging your reports to do their best?](https://anuragbhandari.com/life-thoughts/are-you-challenging-your-reports-to-do-their-best-2103/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
