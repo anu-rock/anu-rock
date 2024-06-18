@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Time-boxing a necessary evil in today’s knowledge work?](https://anuragbhandari.com/life-thoughts/time-boxing-a-necessary-evil-in-todays-knowledge-work-2135/)
 - [Using AI for scientific breakthroughs](https://anuragbhandari.com/life-thoughts/using-ai-for-scientific-breakthroughs-2132/)
 - [The showroom effect](https://anuragbhandari.com/life-thoughts/the-showroom-effect-2127/)
 - [The Philippines and America share an interesting connection](https://anuragbhandari.com/life-thoughts/the-philippines-and-america-share-an-interesting-connection-2123/)
-- [We’ve been flying for over a hundred years](https://anuragbhandari.com/life-thoughts/weve-been-flying-for-over-a-hundred-years-2115/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
