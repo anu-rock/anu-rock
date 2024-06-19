@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Say yes now and figure it out later](https://anuragbhandari.com/life-thoughts/say-yes-now-and-figure-it-out-later-2139/)
 - [Time-boxing a necessary evil in today’s knowledge work?](https://anuragbhandari.com/life-thoughts/time-boxing-a-necessary-evil-in-todays-knowledge-work-2135/)
 - [Using AI for scientific breakthroughs](https://anuragbhandari.com/life-thoughts/using-ai-for-scientific-breakthroughs-2132/)
 - [The showroom effect](https://anuragbhandari.com/life-thoughts/the-showroom-effect-2127/)
-- [The Philippines and America share an interesting connection](https://anuragbhandari.com/life-thoughts/the-philippines-and-america-share-an-interesting-connection-2123/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
