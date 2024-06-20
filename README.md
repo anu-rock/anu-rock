@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Have realistic expectations and aim for inner peace](https://anuragbhandari.com/life-thoughts/have-realistic-expectations-and-aim-for-inner-peace-2142/)
 - [Say yes now and figure it out later](https://anuragbhandari.com/life-thoughts/say-yes-now-and-figure-it-out-later-2139/)
 - [Time-boxing a necessary evil in today’s knowledge work?](https://anuragbhandari.com/life-thoughts/time-boxing-a-necessary-evil-in-todays-knowledge-work-2135/)
 - [Using AI for scientific breakthroughs](https://anuragbhandari.com/life-thoughts/using-ai-for-scientific-breakthroughs-2132/)
-- [The showroom effect](https://anuragbhandari.com/life-thoughts/the-showroom-effect-2127/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
