@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Progress occurs over time, really long time](https://anuragbhandari.com/life-thoughts/progress-occurs-over-time-really-long-time-2150/)
 - [The promise of a new beginning tomorrow](https://anuragbhandari.com/life-thoughts/the-promise-of-a-new-beginning-tomorrow-2147/)
 - [Have realistic expectations and aim for inner peace](https://anuragbhandari.com/life-thoughts/have-realistic-expectations-and-aim-for-inner-peace-2142/)
 - [Say yes now and figure it out later](https://anuragbhandari.com/life-thoughts/say-yes-now-and-figure-it-out-later-2139/)
-- [Time-boxing a necessary evil in today’s knowledge work?](https://anuragbhandari.com/life-thoughts/time-boxing-a-necessary-evil-in-todays-knowledge-work-2135/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
