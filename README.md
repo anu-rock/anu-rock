@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Being remembered for touching many lives vs. one big thing](https://anuragbhandari.com/life-thoughts/being-remembered-for-touching-many-lives-vs-one-big-thing-2164/)
 - [Do you often consider both sides of an argument?](https://anuragbhandari.com/life-thoughts/do-you-often-consider-both-sides-of-an-argument-2158/)
 - [Indian cars have wheels on the wrong side](https://anuragbhandari.com/life-thoughts/indian-cars-have-wheels-on-the-wrong-side-2153/)
 - [Progress occurs over time, really long time](https://anuragbhandari.com/life-thoughts/progress-occurs-over-time-really-long-time-2150/)
-- [The promise of a new beginning tomorrow](https://anuragbhandari.com/life-thoughts/the-promise-of-a-new-beginning-tomorrow-2147/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
