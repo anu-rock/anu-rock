@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The scientific answer to whether AI will become smarter than us](https://anuragbhandari.com/coding-tech/the-scientific-answer-to-whether-ai-will-become-smarter-than-us-2168/)
 - [Being remembered for touching many lives vs. one big thing](https://anuragbhandari.com/life-thoughts/being-remembered-for-touching-many-lives-vs-one-big-thing-2164/)
 - [Do you often consider both sides of an argument?](https://anuragbhandari.com/life-thoughts/do-you-often-consider-both-sides-of-an-argument-2158/)
 - [Indian cars have wheels on the wrong side](https://anuragbhandari.com/life-thoughts/indian-cars-have-wheels-on-the-wrong-side-2153/)
-- [Progress occurs over time, really long time](https://anuragbhandari.com/life-thoughts/progress-occurs-over-time-really-long-time-2150/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
