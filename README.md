@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Failure as a trigger and success a currency for creativity](https://anuragbhandari.com/literary-pursuits/failure-as-a-trigger-and-success-a-currency-for-creativity-2175/)
 - [Feeling irritated? Try an addictive video game](https://anuragbhandari.com/life-thoughts/feeling-irritated-try-an-addictive-video-game-2172/)
 - [The scientific answer to whether AI will become smarter than us](https://anuragbhandari.com/coding-tech/the-scientific-answer-to-whether-ai-will-become-smarter-than-us-2168/)
 - [Being remembered for touching many lives vs. one big thing](https://anuragbhandari.com/life-thoughts/being-remembered-for-touching-many-lives-vs-one-big-thing-2164/)
-- [Do you often consider both sides of an argument?](https://anuragbhandari.com/life-thoughts/do-you-often-consider-both-sides-of-an-argument-2158/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
