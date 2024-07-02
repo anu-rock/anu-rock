@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Junk food and junk content are robbing us of our potential](https://anuragbhandari.com/life-thoughts/junk-food-and-junk-content-are-robbing-us-of-our-potential-2182/)
 - [Making money from open-source software](https://anuragbhandari.com/coding-tech/making-money-from-open-source-software-2178/)
 - [Failure as a trigger and success a currency for creativity](https://anuragbhandari.com/literary-pursuits/failure-as-a-trigger-and-success-a-currency-for-creativity-2175/)
 - [Feeling irritated? Try an addictive video game](https://anuragbhandari.com/life-thoughts/feeling-irritated-try-an-addictive-video-game-2172/)
-- [The scientific answer to whether AI will become smarter than us](https://anuragbhandari.com/coding-tech/the-scientific-answer-to-whether-ai-will-become-smarter-than-us-2168/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
