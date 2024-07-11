@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Be intentionally uncomfortable to grow](https://anuragbhandari.com/life-thoughts/be-intentionally-uncomfortable-to-grow-2194/)
 - [Can we learn to be curious?](https://anuragbhandari.com/life-thoughts/can-we-learn-to-be-curious-2190/)
 - [37](https://anuragbhandari.com/life-thoughts/37-2188/)
 - [The meaning of words isn’t fixed](https://anuragbhandari.com/life-thoughts/the-meaning-of-words-isnt-fixed-2185/)
-- [Junk food and junk content are robbing us of our potential](https://anuragbhandari.com/life-thoughts/junk-food-and-junk-content-are-robbing-us-of-our-potential-2182/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
