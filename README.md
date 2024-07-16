@@ -14,7 +14,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [If stress is critical in growth, rest is vital](https://anuragbhandari.com/life-thoughts/if-stress-is-critical-in-growth-rest-is-vital-2197/)
+- [If stress is critical to grow, rest is vital](https://anuragbhandari.com/life-thoughts/if-stress-is-critical-in-growth-rest-is-vital-2197/)
 - [Be intentionally uncomfortable to grow](https://anuragbhandari.com/life-thoughts/be-intentionally-uncomfortable-to-grow-2194/)
 - [Can we learn to be curious?](https://anuragbhandari.com/life-thoughts/can-we-learn-to-be-curious-2190/)
 - [37](https://anuragbhandari.com/life-thoughts/37-2188/)
