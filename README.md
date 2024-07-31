@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stopping ad-blockers from blocking Sentry and analytics libraries](https://anuragbhandari.com/coding-tech/stopping-ad-blockers-from-blocking-sentry-and-analytics-libraries-2208/)
 - [Using brain chemistry for sustained motivation for long-term goals](https://anuragbhandari.com/life-thoughts/using-brain-chemistry-for-sustained-motivation-for-long-term-goals-2205/)
 - [Code review anxiety is real](https://anuragbhandari.com/coding-tech/code-review-anxiety-is-real-2202/)
 - [If stress is critical to grow, rest is vital](https://anuragbhandari.com/life-thoughts/if-stress-is-critical-in-growth-rest-is-vital-2197/)
-- [Be intentionally uncomfortable to grow](https://anuragbhandari.com/life-thoughts/be-intentionally-uncomfortable-to-grow-2194/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
