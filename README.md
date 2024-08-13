@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TIL Weekly #6 – Distracting links, trash talk, authoritarianism](https://anuragbhandari.com/projects-experiments/til-weekly-6-distracting-links-trash-talk-authoritarianism-2229/)
+- [Using a hybrid setup for more reliable accessibility testing](https://anuragbhandari.com/coding-tech/using-a-hybrid-setup-for-more-reliable-accessibility-testing-2225/)
 - [TIL Weekly #5](https://anuragbhandari.com/projects-experiments/til-weekly-5-2218/)
 - [Java is not yet dead](https://anuragbhandari.com/coding-tech/java-is-not-yet-dead-2215/)
-- [TIL Weekly #4](https://anuragbhandari.com/projects-experiments/til-weekly-4-2211/)
-- [Stopping ad-blockers from blocking Sentry and analytics libraries](https://anuragbhandari.com/coding-tech/stopping-ad-blockers-from-blocking-sentry-and-analytics-libraries-2208/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
