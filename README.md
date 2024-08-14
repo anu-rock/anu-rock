@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The intricacies of drag and drop](https://anuragbhandari.com/coding-tech/the-intricacies-of-drag-and-drop-2232/)
 - [TIL Weekly #6 – Distracting links, trash talk, authoritarianism](https://anuragbhandari.com/projects-experiments/til-weekly-6-distracting-links-trash-talk-authoritarianism-2229/)
 - [Using a hybrid setup for more reliable accessibility testing](https://anuragbhandari.com/coding-tech/using-a-hybrid-setup-for-more-reliable-accessibility-testing-2225/)
 - [TIL Weekly #5](https://anuragbhandari.com/projects-experiments/til-weekly-5-2218/)
-- [Java is not yet dead](https://anuragbhandari.com/coding-tech/java-is-not-yet-dead-2215/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
