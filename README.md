@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Peak Performance — Book Review](https://anuragbhandari.com/literary-pursuits/peak-performance-book-review-2241/)
 - [The problem with grand-goal strategy](https://anuragbhandari.com/life-thoughts/the-problem-with-grand-goal-strategy-2236/)
 - [The intricacies of drag and drop](https://anuragbhandari.com/coding-tech/the-intricacies-of-drag-and-drop-2232/)
 - [TIL Weekly #6 – Distracting links, trash talk, authoritarianism](https://anuragbhandari.com/projects-experiments/til-weekly-6-distracting-links-trash-talk-authoritarianism-2229/)
-- [Using a hybrid setup for more reliable accessibility testing](https://anuragbhandari.com/coding-tech/using-a-hybrid-setup-for-more-reliable-accessibility-testing-2225/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
