@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gadget alert – Mac mini M4](https://anuragbhandari.com/life-thoughts/gadget-alert-mac-mini-m4-2249/)
 - [TIL Weekly #8 – Positive mindset healing, Deep life, Perils of niceness, Loving your craft](https://anuragbhandari.com/projects-experiments/til-weekly-8-positive-mindset-healing-deep-life-perils-of-niceness-loving-your-craft-2245/)
 - [Peak Performance — Book Review](https://anuragbhandari.com/literary-pursuits/peak-performance-book-review-2241/)
 - [The problem with grand-goal strategy](https://anuragbhandari.com/life-thoughts/the-problem-with-grand-goal-strategy-2236/)
-- [The intricacies of drag and drop](https://anuragbhandari.com/coding-tech/the-intricacies-of-drag-and-drop-2232/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
