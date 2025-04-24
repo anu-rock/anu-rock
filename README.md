@@ -1,16 +1,16 @@
 <h1 align="center">Hello 👋 I'm Anurag</h1>
 
-<h3 align="center"><img src="https://user-images.githubusercontent.com/1288616/148529666-2368f07e-8b57-40ae-bfd9-0d897566c966.jpg" alt="Anurag's photo" width="150" /></h3>
+<!--<h3 align="center"><img src="https://user-images.githubusercontent.com/1288616/148529666-2368f07e-8b57-40ae-bfd9-0d897566c966.jpg" alt="Anurag's photo" width="150" /></h3>-->
+
+<h3 align="center"><img src="https://github.com/user-attachments/assets/bdd1670d-1316-4d65-a37b-5bd9d0594f8d" alt="Anurag's photo" width="150" /></h3>
 
 <h3 align="center">A Software Engineer from India</h3>
 
-- 🔭 I’m currently working at **Automattic**
-
-- 📝 I regularly write articles on [https://anuragbhandari.com](https://anuragbhandari.com)
+- 📝 I regularly write about programming on [anurock.dev](https://anurock.dev) and life on [anuragbhandari.com](https://anuragbhandari.com)
 
 - 📫 Drop me a line at echo@anurock.dev
 
-- 📄 Know about my experiences from my [resume](https://docs.google.com/document/d/1T6sn8dRbfAA1NP74vGRi77tHyNR4mI1lGe-Ffv7elDQ/edit?usp=sharing)
+- 📄 Peruse my [resume](https://docs.google.com/document/d/1T6sn8dRbfAA1NP74vGRi77tHyNR4mI1lGe-Ffv7elDQ/edit?usp=sharing) for work experiences
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
