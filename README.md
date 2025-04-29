@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Arc browser, or there and back again](https://anuragbhandari.com/coding-tech/arc-browser-or-there-and-back-again-2268/)
-- [Joys of Steam Deck’s hidden desktop mode](https://anuragbhandari.com/coding-tech/joys-of-steam-decks-hidden-desktop-mode-2260/)
-- [Gadget alert – Mac mini M4](https://anuragbhandari.com/life-thoughts/gadget-alert-mac-mini-m4-2249/)
-- [TIL Weekly #8 – Positive mindset healing, Deep life, Perils of niceness, Loving your craft](https://anuragbhandari.com/projects-experiments/til-weekly-8-positive-mindset-healing-deep-life-perils-of-niceness-loving-your-craft-2245/)
+- [Error saving emoji in WordPress](https://anurock.dev/posts/wordpress-unicode/)
+- [Prerequisites - The right way to start coding](https://anurock.dev/posts/prerequisites/)
+- [Career Paths](https://anurock.dev/posts/career-paths/)
+- [Is Coding For You?](https://anurock.dev/posts/is-coding-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
