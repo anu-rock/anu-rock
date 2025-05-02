@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Preventing KeyError in Python dictionaries](https://anurock.dev/posts/python-defaultdict/)
+- [Leetcode as a means to practice coding minimalism](https://anurock.dev/posts/leetcode-minimalism/)
 - [Error saving emoji in WordPress](https://anurock.dev/posts/wordpress-unicode/)
 - [Prerequisites - The right way to start coding](https://anurock.dev/posts/prerequisites/)
-- [Career Paths](https://anurock.dev/posts/career-paths/)
-- [Is Coding For You?](https://anurock.dev/posts/is-coding-for-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
