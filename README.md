@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Performance metrics driven by impact](https://anurock.dev/posts/performance-metrics/)
 - [Preventing KeyError in Python dictionaries](https://anurock.dev/posts/python-defaultdict/)
 - [Leetcode as a means to practice coding minimalism](https://anurock.dev/posts/leetcode-minimalism/)
 - [Error saving emoji in WordPress](https://anurock.dev/posts/wordpress-unicode/)
-- [Prerequisites - The right way to start coding](https://anurock.dev/posts/prerequisites/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
