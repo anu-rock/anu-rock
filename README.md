@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to get `docker compose` command working in macOS](https://anurock.dev/posts/docker-compose-macos/)
 - [How to Add a Bookmark Content Collection in Astro](https://anurock.dev/posts/astro-content-collection/)
 - [Performance metrics driven by impact](https://anurock.dev/posts/performance-metrics/)
 - [Preventing KeyError in Python dictionaries](https://anurock.dev/posts/python-defaultdict/)
-- [Leetcode as a means to practice coding minimalism](https://anurock.dev/posts/leetcode-minimalism/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
