@@ -14,10 +14,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Streaming progress updates in long-running API requests](https://anurock.dev/posts/api-progress-updates/)
 - [Client-side data fetching paradigms in React Server Components](https://anurock.dev/posts/react-19-client-data-fetching/)
 - [How to get `docker compose` command working in macOS](https://anurock.dev/posts/docker-compose-macos/)
 - [How to Add a Bookmark Content Collection in Astro](https://anurock.dev/posts/astro-content-collection/)
-- [Performance metrics driven by impact](https://anurock.dev/posts/performance-metrics/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
