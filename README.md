@@ -10,10 +10,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Locks using Redis](https://anurock.dev/posts/redis-locks/)
 - [Easy RAG](https://anurock.dev/posts/easy-rag/)
 - [Ollama in Colima](https://anurock.dev/posts/ollama-in-colima/)
 - [Streaming progress updates in long-running API requests](https://anurock.dev/posts/api-progress-updates/)
-- [Client-side data fetching paradigms in React Server Components](https://anurock.dev/posts/react-19-client-data-fetching/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
