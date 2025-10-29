@@ -10,10 +10,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [If you want to finish fast, go slow](https://anurock.dev/posts/slow-is-fast/)
 - [Locks using Redis](https://anurock.dev/posts/redis-locks/)
 - [Easy RAG](https://anurock.dev/posts/easy-rag/)
 - [Ollama in Colima](https://anurock.dev/posts/ollama-in-colima/)
-- [Streaming progress updates in long-running API requests](https://anurock.dev/posts/api-progress-updates/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
