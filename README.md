@@ -10,10 +10,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Auto-pause music on inactivity in macOS](https://anurock.dev/posts/auto-pause-music/)
 - [Storage engines in MySQL](https://anurock.dev/posts/mysql-engines/)
 - [If you want to finish fast, go slow](https://anurock.dev/posts/slow-is-fast/)
 - [Locks using Redis](https://anurock.dev/posts/redis-locks/)
-- [Easy RAG](https://anurock.dev/posts/easy-rag/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
