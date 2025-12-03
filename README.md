@@ -10,10 +10,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Relational queries in Drizzle ORM](https://anurock.dev/posts/drizzle-relational-queries/)
 - [Async functions inside loops in JavaScript](https://anurock.dev/posts/dangerous-promises-javascript/)
 - [Auto-pause music on inactivity in macOS](https://anurock.dev/posts/auto-pause-music/)
 - [Storage engines in MySQL](https://anurock.dev/posts/mysql-engines/)
-- [If you want to finish fast, go slow](https://anurock.dev/posts/slow-is-fast/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
